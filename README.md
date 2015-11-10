@@ -1,5 +1,5 @@
 # hsp-api-example
-Example of how to configure and extend the HSP API to create a deployable war with Spring Boot.
+Example of how to configure and extend the [HSP API](https://bitbucket.org/hspconsortium/reference-api) to create a deployable war with Spring Boot.
 
 ## sbs-fhir-base
 This module references the hsp api code, then adds some configuration on top of that which is specific 
