@@ -14,6 +14,7 @@
   <groupId>org.ihc.clinical.sbs</groupId>
   <version>0.0.1-SNAPSHOT</version>
 
+  <!-- Test Comment -->
   <modules>
     <module>sbs-fhir-base</module>
     <module>sbs-fhir-example</module>
